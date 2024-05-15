@@ -2,7 +2,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing:border-box;
     font-family: "Inter",sans-serif;
 }
 body{
@@ -11,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(50deg,aquamarine, blue);
+    background-image: url('/public/Images/lap.jpg');
     
 
 }
@@ -19,7 +18,7 @@ body{
     width: 500px;
     height: 400px;
     padding: 20px;
-    background-color: skyblue;
+    background-color: wheat;
     border-radius: 8px;
     box-shadow: 0 0 10 rgba(0,0,0,0.1);
     display: flex;
